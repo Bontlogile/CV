@@ -2,7 +2,7 @@
 
 ## Run Instructions
 
-1. Clone: `git clone https://github.com/Bontlogile/CV.git`
+1. Clone: `git clone https://github.com/Bontlogile/CV`
 2. Open in VS Code or browser.
 3. [Add specific run steps, e.g., "npm install && npm start"]
 4. Project page: https://Bontlogile.github.io/CV (deploy via GitHub Pages if needed: Settings > Pages > Deploy from main branch).
